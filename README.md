@@ -38,9 +38,9 @@ Set 'debug' mode to enable console output. You can get to the developer console 
 
 ### Keybindings
 
-`Shift` + `s`: Shuffles your timeline randomly. Useful for testing the sorting functionality or as a glimpse into the future of algo Twitter.
+`Shift` + `S`: Shuffles your timeline randomly. Useful for testing the sorting functionality or as a glimpse into the future of algo Twitter.
 
-`Shift` + `c`: Sorts your timeline chronologically.
+`Shift` + `C`: Sorts your timeline chronologically.
 
 > _NOTE: These are mainly used for testing & are not optimized for performance_
 
@@ -60,4 +60,3 @@ not be 100% accurate but doesnt really ruin the flow of the timeline in my opini
 
 ## Contributing:
   * PLEASE.
-
