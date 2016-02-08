@@ -44,7 +44,7 @@ Set 'debug' mode to enable console output. You can get to the developer console 
 
 > _NOTE: These are mainly used for testing & are not optimized for performance_
 
-## Dev Usage
+## Installation
 
 Download this repository and follow the instructions [here](https://developer.chrome.com/extensions/getstarted#unpacked) to set up a local extension.
 
