@@ -1,6 +1,6 @@
 {
   "name": "Twitter Classic",
-  "description": "Ensures chronologically ordered timelines, removes the Moments™ tab and blocks Promoted Tweets™.",
+  "description": "Ensures reverse-chronological timelines, removes the Moments™ tab and blocks Promoted Tweets™.",
   "version": "1.0",
   "manifest_version": 2,
   "permissions": ["*://*/*"],

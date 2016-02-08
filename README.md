@@ -5,8 +5,8 @@
 
 # Twitter Classic
 
-Chrome extension that forces twitter.com into "classic mode", which removes Promoted Tweets, the Moments tab,
-and ensures your timeline is ordered from newest to oldest, no algorithms!
+Chrome extension that forces twitter.com into "classic mode", which removes Promoted Tweets & the Moments tab
+while ensuring your timeline is ordered from newest to oldest, no algorithms!
 
 <p align="center" style="margin-bottom: -20px;">
   <br />
