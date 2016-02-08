@@ -23,7 +23,7 @@ Install via the Chrome Store [here](www.googleplaystorelink.com).
 
 Upon hearing the news that Twitter may start introducing algorithm-based feeds I immediately started looking into
 a work-around. I noticed Twitter includes the raw unix timestamp of tweets in an HTML data attribute, which allows 
-us to read the DOM for the reverse chronological order. After a day spent hacking at Twitter with jQuery, I have 
+us to read the DOM for the reverse chronological order. After a day spent hacking at Twitter with jQuery, I 
 was left with this. While this solution only works for the desktop Chrome browser, I hope it will inspire developers 
 of other platforms to explore chronological fixes in case Twitter goes full-blown algo.
 
@@ -39,6 +39,7 @@ Set 'debug' mode to enable console output. You can get to the developer console 
 ### Keybindings
 
 `Shift` + `s`: Shuffles your timeline randomly. Useful for testing the sorting functionality or as a glimpse into the future of algo Twitter.
+
 `Shift` + `c`: Sorts your timeline chronologically.
 
 > _NOTE: These are mainly used for testing & are not optimized for performance_
