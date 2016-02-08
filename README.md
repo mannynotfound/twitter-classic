@@ -10,7 +10,7 @@ and ensures your timeline is ordered from newest to oldest, no algorithms!
 
 <p align="center" style="margin-bottom: -20px;">
   <br />
-  <img width="320" src="https://raw.githubusercontent.com/artnotfound/twitter-classic/master/classic.gif" />
+  <img width="600" src="https://raw.githubusercontent.com/artnotfound/twitter-classic/master/classic.gif" />
 </p>
 
 <!---
