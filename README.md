@@ -40,7 +40,7 @@ Set 'debug' mode to enable console output. You can get to the developer console 
 
 `Shift` + `S`: Shuffles your timeline randomly. Useful for testing the sorting functionality or as a glimpse into the future of algo Twitter.
 
-`Shift` + `C`: Sorts your timeline chronologically.
+`Shift` + `C`: Sorts your timeline from newest to oldest.
 
 > _NOTE: These are mainly used for testing & are not optimized for performance_
 
