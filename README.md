@@ -1,3 +1,14 @@
+# * UPDATE *
+
+Seems like this extension (which I only submitted twice, getting rejected both times) has gotten me suspended from the Chrome Extension Developer Program. _it's lit_
+
+<p align="center">
+  <br />
+  <img width="300" src="https://raw.githubusercontent.com/artnotfound/twitter-classic/master/CcB4y23WEAIP522.jpg" />
+</p>
+
+---
+
 <p align="center">
   <br />
   <img src="https://raw.githubusercontent.com/artnotfound/twitter-classic/master/classic.png" />
